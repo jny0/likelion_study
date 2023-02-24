@@ -1,4 +1,4 @@
-package daily.d230224.q1;
+package daily.d230224.q11975_30_8;
 
 
 public class Main {
